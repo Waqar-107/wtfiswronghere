@@ -1,0 +1,1 @@
+wrong , should have started the loop on line 23 from at least 3, as as result 3 and 5 is missing
