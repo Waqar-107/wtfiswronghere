@@ -1,0 +1,1 @@
+on line 15, def fizzbuzz(max_num): is missing an arg, the first arg should always be "self"
