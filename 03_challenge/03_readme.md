@@ -1,0 +1,1 @@
+function fizzbuzz expected int, got str as argument. casting in int was sufficient
