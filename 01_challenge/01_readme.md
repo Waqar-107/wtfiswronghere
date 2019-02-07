@@ -1,0 +1,1 @@
+in line 27, elif needs "==" to compare, not "="
